@@ -4,4 +4,5 @@ Data from http://fixer.io, free API.
 
 ### macOS VBA + Excel Foreign Exchange rates parse/ import
 ____________
-Name worksheet "FX" or download example spreadsheet.
+Download example spreadsheet or name worksheet "FX" within workbook and paste VBA code.
+*Not tested on Windows or other Mac Excel versions, works specifically on Microsoft Excel for Mac Office 365.
