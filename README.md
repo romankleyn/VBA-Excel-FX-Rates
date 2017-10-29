@@ -6,4 +6,4 @@ Data from http://fixer.io, free API.
 ____________
 Download example spreadsheet or name worksheet "FX" within workbook and paste VBA code.
 <br />
-*Not tested on Windows or other Mac Excel versions, works specifically on Microsoft Excel for Mac Office 365.
+*Created for use in Microsoft Excel for Mac Office 365, works in Windows as well. 
