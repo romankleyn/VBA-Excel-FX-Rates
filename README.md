@@ -1,2 +1,7 @@
-# macOS-VBA-FX-Rates
-macOS VBA + Excel import and download Foreign Exchange rates to the worksheet using http://fixer.io API
+### Data
+____________
+Data from http://fixer.io, free API.
+
+### macOS VBA + Excel Foreign Exchange rates parse/ import
+____________
+Name worksheet "FX" or download example spreadsheet.
