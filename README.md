@@ -1,3 +1,5 @@
+### fixer.io API has been Updated Requiring SignUp -> for API Key -> to paste into VBA code 
+
 ### Data
 ____________
 Data from http://fixer.io, free API.
