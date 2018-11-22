@@ -1,11 +1,13 @@
-### fixer.io API has been Updated Requiring SignUp -> for API Key -> to paste into VBA code 
+## Forex + More Data
 
 ### Data
 ____________
-Data from http://fixer.io, free API.
+Data from https://ca.investing.com/currencies/live-currency-cross-rates.
 
-### macOS VBA + Excel Foreign Exchange rates parse/ import
+Includes Indices, Commodities, Forex and Crypto data.
+
+### VBA + Excel Info
 ____________
-Download example spreadsheet or name worksheet "FX" within workbook and paste VBA code.
-<br />
-*Created for use in Microsoft Excel for Mac Office 365, works in Windows as well. 
+Download example spreadsheet or name worksheet "Data" within workbook and paste VBA code.
+
+*Created for use in Microsoft Excel Office 365
